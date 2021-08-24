@@ -5,8 +5,8 @@ from Levels import levels
 
 
 Print.main_menu()
-
 choice = None
+
 
 def get_int():
   inp = input("Choice: ")
@@ -16,6 +16,7 @@ def get_int():
   except ValueError:
     Print.invalid_choice()
     return(get_int())
+
 
 while choice != 3:
   choice = get_int()

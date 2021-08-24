@@ -118,4 +118,4 @@ class Player:
 
 player = Player(100, [wooden_sword])
 
-# [wooden_sword, rock, stone_knife, iron_fists, crab_claws, iron_sword, molten_greatsword, magma_bomb, meteorite_dagger, devils_kiss, angel_of_death, entropic_claymore, galaxia, void_vortex, shellshock, gods_devastation, nadir, planetary_annihilation, the_last_mourning, grand_guardian]
+# all_weapons = [wooden_sword, rock, stone_knife, iron_fists, crab_claws, iron_sword, molten_greatsword, magma_bomb, meteorite_dagger, devils_kiss, angel_of_death, entropic_claymore, galaxia, void_vortex, shellshock, gods_devastation, nadir, planetary_annihilation, the_last_mourning, grand_guardian]
